@@ -9,7 +9,7 @@
 
 I'm a passionate software engineer with 14 years of experience at Laxamentum Technologies. 
 
-Over the years I've learnt many different languages including: PHP, Bash, Node.js, TypeScript, Objective-C, Java (Android) and Golang.
+Over the years I've learnt many different languages including: PHP, Bash, Node.js, TypeScript, Objective-C, Kotlin (Android), Golang and Rust.
 
 I excel in innovating in new projects and have a love for all areas of technology.
 
